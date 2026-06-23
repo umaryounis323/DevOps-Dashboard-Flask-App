@@ -4,4 +4,4 @@ COPY requirement.txt .
 RUN pip install -r requirement.txt
 COPY . .
 EXPOSE 5000
-CMD ["Python" , "app.py"]
+CMD ["python", "app.py"]
