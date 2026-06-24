@@ -148,7 +148,7 @@ def dashboard():
     </div>
 
     <footer>
-        <p>🚀 Deployed via GitHub Actions CI/CD by the best of all time , he wishes to be the best devops engineer of all time | Umar Younis — DevOps Engineer</p>
+        <p>🚀 Deployed via GitHub Actions CI/CD | Umar Younis — DevOps Engineer</p>
     </footer>
 </body>
 </html>
